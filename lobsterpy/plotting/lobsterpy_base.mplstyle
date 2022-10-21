@@ -1,6 +1,6 @@
 figure.figsize : 12., 8.
 
-lines.linewidth : 3
+lines.linewidth : 1
 
 font.size : 30
 axes.labelsize: medium
