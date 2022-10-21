@@ -1,16 +1,8 @@
 
-
 lines.linewidth : 1
-
 font.size : 30
 axes.labelsize: medium
 axes.titlesize : large
 legend.fontsize : medium
-
-# In LobsterPy, axis lines through origin use grid settings.
-# This should avoid clutter when grid is also enabled
-grid.color : k
-
-# palettable.colorbrewer.qualitative.Set1_9
 axes.prop_cycle : cycler('color', ['006d2c', '2ca25f', '66c2a4', 'b2e2e2'])
 
